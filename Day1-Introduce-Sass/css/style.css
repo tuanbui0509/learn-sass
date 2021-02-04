@@ -1,2 +1,19 @@
 .container {
-  margin-top: 30px; }
+  margin-top: 30px;
+  font-size: 15px; }
+
+.courses .course {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; }
+  .courses .course a {
+    text-decoration: none;
+    cursor: pointer; }
+  .courses .course .course-content .course-name {
+    font-size: 26px;
+    color: #185742;
+    text-align: center;
+    padding: 5px 0;
+    font-weight: bold; }
+  .courses .course .course-content .course-describe {
+    font-size: 16px;
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; }
