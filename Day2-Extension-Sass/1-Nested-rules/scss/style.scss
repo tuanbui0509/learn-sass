@@ -1,0 +1,18 @@
+div.container{
+    background-color: green;
+    div.child{
+        background-color: orange;
+        a{
+            text-decoration: none;
+            color: red;
+            font-size: 32px;
+            font-weight: bold;
+        }
+    }
+    p{
+        background-color: darkgrey;
+        font-size: 20px;
+        color: blue;
+        margin-top: 30px;
+    }
+}

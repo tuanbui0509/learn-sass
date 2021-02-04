@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "watch-1":"node-sass --watch ./Day1-Introduce-Sass/scss/ --output ./Day1-Introduce-Sass/css/"
+    "watch-1":"node-sass --watch ./Day1-Introduce-Sass/scss/ --output ./Day1-Introduce-Sass/css/",
+    "watch-2":"node-sass --watch ./Day2-Extension-Sass/1-Nested-rules/scss/ --output ./Day2-Extension-Sass/1-Nested-rules/css/"
   },
   "repository": {
     "type": "git",
