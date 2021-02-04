@@ -6,7 +6,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "watch-1":"node-sass --watch ./Day1-Introduce-Sass/scss/ --output ./Day1-Introduce-Sass/css/",
-    "watch-2":"node-sass --watch ./Day2-Extension-Sass/1-Nested-rules/scss/ --output ./Day2-Extension-Sass/1-Nested-rules/css/"
+    "watch-21":"node-sass --watch ./Day2-Extension-Sass/1-Nested-rules/scss/ --output ./Day2-Extension-Sass/1-Nested-rules/css/",
+    "watch-22":"node-sass --watch ./Day2-Extension-Sass/2-Nested-properties/scss/ --output ./Day2-Extension-Sass/2-Nested-properties/css/"
   },
   "repository": {
     "type": "git",

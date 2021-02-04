@@ -1,0 +1,27 @@
+div.container{
+    background-color: green;
+    div.child{
+        background-color: orange;
+        a{
+            text-decoration: none;
+            color: red;
+            font-size: 32px;
+            font-weight: bold;
+        }
+    }
+    p{
+        text-align: center;
+        background-color: darkgrey;
+        font-size: 20px;
+        color: blue;
+        padding: 30px;
+    }
+    p.content{
+        border: {
+            top: 3px solid green;
+            bottom: 3px solid red;
+            left: 3px solid blue;
+            right: 3px solid pink;
+        }
+    }
+}
