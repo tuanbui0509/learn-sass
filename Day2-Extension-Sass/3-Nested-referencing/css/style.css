@@ -1,0 +1,35 @@
+div.container div.courses div.course {
+  overflow: hidden;
+}
+
+div.container div.courses div.course .course-content {
+  text-align: center;
+}
+
+div.container div.courses div.course .course-content-name {
+  font-size: 25px;
+  font-weight: 500;
+  color: red;
+}
+
+div.container div.courses div.course .course-content-describe {
+  font-size: 18px;
+  font-weight: 400;
+  color: blue;
+}
+
+div.container div.courses div.course a {
+  overflow: hidden;
+  display: block;
+}
+
+div.container div.courses div.course a img {
+  overflow: hidden;
+}
+
+div.container div.courses div.course a img:hover {
+  opacity: 0.8;
+  transform: scale(1.2);
+  transition: transform 0.5s;
+  width: 100%;
+}
