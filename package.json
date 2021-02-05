@@ -8,7 +8,12 @@
     "watch-1":"node-sass --watch ./Day1-Introduce-Sass/scss/ --output ./Day1-Introduce-Sass/css/",
     "watch-21":"node-sass --watch ./Day2-Extension-Sass/1-Nested-rules/scss/ --output ./Day2-Extension-Sass/1-Nested-rules/css/",
     "watch-22":"node-sass --watch ./Day2-Extension-Sass/2-Nested-properties/scss/ --output ./Day2-Extension-Sass/2-Nested-properties/css/",
-    "watch-23":"node-sass --watch ./Day2-Extension-Sass/3-Nested-referencing/scss/ --output ./Day2-Extension-Sass/3-Nested-referencing/css/"
+    "watch-23":"node-sass --watch ./Day2-Extension-Sass/3-Nested-referencing/scss/ --output ./Day2-Extension-Sass/3-Nested-referencing/css/",
+    "watch-31":"node-sass --watch ./Day3-Variables/1-Data-Type-Use/scss/ --output ./Day3-Variables/1-Data-Type-Use/css/",
+    "watch-32":"node-sass --watch ./Day3-Variables/2-Data-Type-Global/scss/ --output ./Day3-Variables/2-Data-Type-Global/css/",
+    "watch-33":"node-sass --watch ./Day3-Variables/3-Data-Type-Operation/scss/ --output ./Day3-Variables/3-Data-Type-Operation/css/",
+    "watch-34":"node-sass --watch ./Day3-Variables/4-Data-Type-Interpolation/scss/ --output ./Day3-Variables/4-Data-Type-Interpolation/css/",
+    "watch-35":"node-sass --watch ./Day3-Variables/5-Data-Type-google-font/scss/ --output ./Day3-Variables/5-Data-Type-google-font/css/"
   },
   "repository": {
     "type": "git",

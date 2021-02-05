@@ -1,0 +1,16 @@
+@import url("https://fonts.googleapis.com/css2?family=Lexend+Mega&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Lexend+Mega&family=Yusei+Magic&display=swap");
+/*
+font-family: 'Lexend Mega', sans-serif;
+font-family: 'Lexend Mega', sans-serif;
+font-family: 'Yusei Magic', sans-serif;
+*/
+body {
+  font-family: "Lexend Mega", sans-serif; }
+
+h1 {
+  font-family: "Yusei Magic", sans-serif;
+  font-size: 30px; }
+
+h2 {
+  font-family: "Yusei Magic", sans-serif; }

@@ -1,0 +1,17 @@
+/*Interpolation: */
+$name:foo;
+$attr:border;
+p.#{$name}{
+    #{$attr}-color:blue;
+}
+
+$name-color: btn-color;
+$font:font;
+
+a.#{$name-color}{
+    #{$font}-size: 20px;
+    #{$font}-weight: 200;
+    #{$font}-family: 'Arial';
+    #{$attr}-color:blue;
+
+}

@@ -1,0 +1,33 @@
+/*
+With Sass, you can store information in variables, like:
+strings
+numbers
+colors
+booleans
+lists
+nulls
+Sass uses the $ symbol, followed by a name, to declare variables:
+*/
+
+/*Variable*/
+p{
+    font: 10px/8px;
+    $width:100px;
+    width: $width/2;
+    width: round(1.5)/2;
+    height: (500px/2);
+    margin-left: 5px + 8px/2;
+    font: (italic bold 10px/8px);
+}
+
+$image-url:"../../img/";
+
+.img{
+    background: $image-url+"img1.png";
+}
+
+$name:foo;
+$attr:border;
+p.#{$name}{
+    #{$attr}-color:blue;
+}

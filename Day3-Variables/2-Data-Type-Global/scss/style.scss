@@ -1,0 +1,23 @@
+// variable
+$color-text: #f3f3f3;
+$bg-color:#fff;
+$font-size: 30px;
+h3{
+    background-color: $bg-color;
+    color: $color-text;
+    font-size: $font-size;
+}
+
+div.abc{
+    color: $color-text;
+    $p-font-size:10px !global;
+    p{
+        font-size: $p-font-size;
+    }
+}
+
+div.def{
+    h3{
+        font-size: $p-font-size;
+    }
+}
